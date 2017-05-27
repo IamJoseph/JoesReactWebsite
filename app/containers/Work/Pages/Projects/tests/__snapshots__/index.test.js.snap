@@ -1,0 +1,253 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Projects /> should render correctly 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.h2
+      style={
+        Object {
+          "fontSize": "3em",
+        }
+      }
+    >
+      Bork 
+      <span
+        aria-label="dog"
+        role="img"
+      >
+        🐶
+      </span>
+    </styled.h2>
+    <styled.i>
+      for iOS and Android
+    </styled.i>
+    <styled.div>
+      <styled.div>
+        <a
+          href="https://github.com/IamJoseph/Bork"
+          rel="dns-prefetch"
+          target="_blank"
+        >
+          Bork @ Github
+        </a>
+      </styled.div>
+      <styled.li>
+        react-native / redux / redux-thunk / react-router-native-flux / babel /
+        <br />
+        webpack / react-native-maps / react-native-camera / firebase
+      </styled.li>
+      <styled.li>
+        Pure es6/esNext implementation
+      </styled.li>
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.video
+        autoPlay={true}
+        loop={true}
+        muted={true}
+        playsInline={true}
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+  <styled.ul>
+    <styled.h2>
+      Farmboy Inventory
+    </styled.h2>
+    <styled.div>
+      <styled.div>
+        <a
+          href="https://github.com/IamJoseph/InventoryGUI"
+          rel="dns-prefetch"
+          target="_blank"
+        >
+          InventoryGUI @ Github
+        </a>
+      </styled.div>
+      <styled.li>
+        MySQLi / php / jquery / jquery-ui
+      </styled.li>
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="farmboy inventory application"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+</styled.section>
+`;
+
+exports[`<Projects /> should toggle className clicked on image container when clicked 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.h2
+      style={
+        Object {
+          "fontSize": "3em",
+        }
+      }
+    >
+      Bork 
+      <span
+        aria-label="dog"
+        role="img"
+      >
+        🐶
+      </span>
+    </styled.h2>
+    <styled.i>
+      for iOS and Android
+    </styled.i>
+    <styled.div>
+      <styled.div>
+        <a
+          href="https://github.com/IamJoseph/Bork"
+          rel="dns-prefetch"
+          target="_blank"
+        >
+          Bork @ Github
+        </a>
+      </styled.div>
+      <styled.li>
+        react-native / redux / redux-thunk / react-router-native-flux / babel /
+        <br />
+        webpack / react-native-maps / react-native-camera / firebase
+      </styled.li>
+      <styled.li>
+        Pure es6/esNext implementation
+      </styled.li>
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.video
+        autoPlay={true}
+        loop={true}
+        muted={true}
+        playsInline={true}
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+  <styled.ul>
+    <styled.h2>
+      Farmboy Inventory
+    </styled.h2>
+    <styled.div>
+      <styled.div>
+        <a
+          href="https://github.com/IamJoseph/InventoryGUI"
+          rel="dns-prefetch"
+          target="_blank"
+        >
+          InventoryGUI @ Github
+        </a>
+      </styled.div>
+      <styled.li>
+        MySQLi / php / jquery / jquery-ui
+      </styled.li>
+    </styled.div>
+    <styled.div
+      className="clicked"
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="farmboy inventory application"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+</styled.section>
+`;
+
+exports[`<Projects /> should toggle className clicked on video container when clicked 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.h2
+      style={
+        Object {
+          "fontSize": "3em",
+        }
+      }
+    >
+      Bork 
+      <span
+        aria-label="dog"
+        role="img"
+      >
+        🐶
+      </span>
+    </styled.h2>
+    <styled.i>
+      for iOS and Android
+    </styled.i>
+    <styled.div>
+      <styled.div>
+        <a
+          href="https://github.com/IamJoseph/Bork"
+          rel="dns-prefetch"
+          target="_blank"
+        >
+          Bork @ Github
+        </a>
+      </styled.div>
+      <styled.li>
+        react-native / redux / redux-thunk / react-router-native-flux / babel /
+        <br />
+        webpack / react-native-maps / react-native-camera / firebase
+      </styled.li>
+      <styled.li>
+        Pure es6/esNext implementation
+      </styled.li>
+    </styled.div>
+    <styled.div
+      className="clicked"
+      onClick={[Function]}
+    >
+      <styled.video
+        autoPlay={true}
+        loop={true}
+        muted={true}
+        playsInline={true}
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+  <styled.ul>
+    <styled.h2>
+      Farmboy Inventory
+    </styled.h2>
+    <styled.div>
+      <styled.div>
+        <a
+          href="https://github.com/IamJoseph/InventoryGUI"
+          rel="dns-prefetch"
+          target="_blank"
+        >
+          InventoryGUI @ Github
+        </a>
+      </styled.div>
+      <styled.li>
+        MySQLi / php / jquery / jquery-ui
+      </styled.li>
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="farmboy inventory application"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+</styled.section>
+`;

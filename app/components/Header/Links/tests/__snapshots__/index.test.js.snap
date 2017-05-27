@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Links /> renders correctly 1`] = `
+<styled.nav>
+  <styled.div>
+    <styled.div>
+      <styled.img
+        alt="hamburger menu icon"
+        onClick={[Function]}
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.ul
+      className="hide"
+    >
+      <Styled(NavLink)
+        activeStyle={
+          Object {
+            "backgroundColor": "#8aa3b6",
+          }
+        }
+        exact={true}
+        to="/"
+      >
+        Home
+      </Styled(NavLink)>
+      <Styled(NavLink)
+        activeStyle={
+          Object {
+            "backgroundColor": "#8aa3b6",
+          }
+        }
+        to="/work"
+      >
+        Work
+      </Styled(NavLink)>
+      <Styled(NavLink)
+        activeStyle={
+          Object {
+            "backgroundColor": "#8aa3b6",
+          }
+        }
+        to="/contact"
+      >
+        Contact
+      </Styled(NavLink)>
+    </styled.ul>
+  </styled.div>
+  <Styled(NavLink)
+    activeClassName="active"
+    exact={true}
+    to="/"
+  >
+    Home
+  </Styled(NavLink)>
+  <Styled(NavLink)
+    activeClassName="active"
+    to="/work"
+  >
+    Work
+  </Styled(NavLink)>
+  <Styled(NavLink)
+    activeClassName="active"
+    to="/contact"
+  >
+    Contact
+  </Styled(NavLink)>
+</styled.nav>
+`;

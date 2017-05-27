@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Contact {...fakeProps} /> renders correctly 1`] = `
+<styled.section>
+  <HelmetWrapper
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Contact
+    </title>
+    <meta
+      content="A contact form and different social media methods to contact Joseph Ireland"
+      name="description"
+    />
+  </HelmetWrapper>
+  <Links />
+  <styled.div>
+    <styled.h1>
+      Send an Email!
+    </styled.h1>
+  </styled.div>
+  <FormComponent
+    email=""
+    handleChange={[Function]}
+    handleSubmit={[Function]}
+    loading={false}
+    message=""
+    name=""
+  />
+</styled.section>
+`;
+
+exports[`<Contact {...fakeProps} /> renders correctly 2`] = `
+<styled.section>
+  <HelmetWrapper
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Contact
+    </title>
+    <meta
+      content="A contact form and different social media methods to contact Joseph Ireland"
+      name="description"
+    />
+  </HelmetWrapper>
+  <Links />
+  <styled.div>
+    <styled.h1>
+      Thanks, I'll Get Back to You Soon :)
+    </styled.h1>
+  </styled.div>
+  <FormComponent
+    email=""
+    handleChange={[Function]}
+    handleSubmit={[Function]}
+    loading={false}
+    message=""
+    name=""
+  />
+</styled.section>
+`;
+
+exports[`<Contact {...fakeProps} /> renders correctly 3`] = `
+<styled.section>
+  <HelmetWrapper
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Contact
+    </title>
+    <meta
+      content="A contact form and different social media methods to contact Joseph Ireland"
+      name="description"
+    />
+  </HelmetWrapper>
+  <Links />
+  <styled.div>
+    <styled.h1>
+      Sorry There Was an Error :( Try again later?
+    </styled.h1>
+  </styled.div>
+  <FormComponent
+    email=""
+    handleChange={[Function]}
+    handleSubmit={[Function]}
+    loading={false}
+    message=""
+    name=""
+  />
+</styled.section>
+`;

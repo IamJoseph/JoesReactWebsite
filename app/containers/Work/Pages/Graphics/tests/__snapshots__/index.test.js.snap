@@ -1,0 +1,246 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Graphics /> should render correctly 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.h2>
+      Graphics
+    </styled.h2>
+    <styled.li>
+      Conceptual vectored tee designs
+    </styled.li>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="brick red style graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="floating island abstract light grey graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="museum dark grey graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="blue office worker dog graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+</styled.section>
+`;
+
+exports[`<Graphics /> should toggle className clicked on 1st image container when clicked 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.h2>
+      Graphics
+    </styled.h2>
+    <styled.li>
+      Conceptual vectored tee designs
+    </styled.li>
+    <styled.div
+      className="clicked"
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="brick red style graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="floating island abstract light grey graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="museum dark grey graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="blue office worker dog graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+</styled.section>
+`;
+
+exports[`<Graphics /> should toggle className clicked on 2nd image container when clicked 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.h2>
+      Graphics
+    </styled.h2>
+    <styled.li>
+      Conceptual vectored tee designs
+    </styled.li>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="brick red style graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className="clicked"
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="floating island abstract light grey graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="museum dark grey graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="blue office worker dog graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+</styled.section>
+`;
+
+exports[`<Graphics /> should toggle className clicked on 3rd image container when clicked 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.h2>
+      Graphics
+    </styled.h2>
+    <styled.li>
+      Conceptual vectored tee designs
+    </styled.li>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="brick red style graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="floating island abstract light grey graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className="clicked"
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="museum dark grey graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="blue office worker dog graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+</styled.section>
+`;
+
+exports[`<Graphics /> should toggle className clicked on 4th image container when clicked 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.h2>
+      Graphics
+    </styled.h2>
+    <styled.li>
+      Conceptual vectored tee designs
+    </styled.li>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="brick red style graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="floating island abstract light grey graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="museum dark grey graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div
+      className="clicked"
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="blue office worker dog graphic tee"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+  </styled.ul>
+</styled.section>
+`;

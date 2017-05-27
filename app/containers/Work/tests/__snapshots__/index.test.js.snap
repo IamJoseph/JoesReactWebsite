@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Work /> should render correctly w/ client_sites path 1`] = `
+<styled.section>
+  <HelmetWrapper
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Work
+    </title>
+    <meta
+      content="Past employment, projects, skills"
+      name="description"
+    />
+  </HelmetWrapper>
+  <Buttons
+    active="/work/client_sites"
+  />
+  <Styled(CSSTransitionGroup)
+    className="transition-group"
+    component="div"
+    transitionAppear={true}
+    transitionAppearTimeout={2000}
+    transitionEnterTimeout={2000}
+    transitionLeave={false}
+    transitionName="page"
+  >
+    <div
+      style={
+        Object {
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    >
+      <Switch>
+        <AsyncRoute
+          load={[Function]}
+          path="/work/client_sites"
+        />
+      </Switch>
+    </div>
+  </Styled(CSSTransitionGroup)>
+</styled.section>
+`;
+
+exports[`<Work /> should render correctly w/ current_site path 1`] = `
+<styled.section>
+  <HelmetWrapper
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Work
+    </title>
+    <meta
+      content="Past employment, projects, skills"
+      name="description"
+    />
+  </HelmetWrapper>
+  <Buttons
+    active="/work/current_site"
+  />
+  <Styled(CSSTransitionGroup)
+    className="transition-group"
+    component="div"
+    transitionAppear={true}
+    transitionAppearTimeout={2000}
+    transitionEnterTimeout={2000}
+    transitionLeave={false}
+    transitionName="page"
+  >
+    <div
+      style={
+        Object {
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    >
+      <Switch>
+        <AsyncRoute
+          load={[Function]}
+          path="/work/current_site"
+        />
+      </Switch>
+    </div>
+  </Styled(CSSTransitionGroup)>
+</styled.section>
+`;
+
+exports[`<Work /> should render correctly w/ graphics path 1`] = `
+<styled.section>
+  <HelmetWrapper
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Work
+    </title>
+    <meta
+      content="Past employment, projects, skills"
+      name="description"
+    />
+  </HelmetWrapper>
+  <Buttons
+    active="/work/graphics"
+  />
+  <Styled(CSSTransitionGroup)
+    className="transition-group"
+    component="div"
+    transitionAppear={true}
+    transitionAppearTimeout={2000}
+    transitionEnterTimeout={2000}
+    transitionLeave={false}
+    transitionName="page"
+  >
+    <div
+      style={
+        Object {
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    >
+      <Switch>
+        <AsyncRoute
+          load={[Function]}
+          path="/work/graphics"
+        />
+      </Switch>
+    </div>
+  </Styled(CSSTransitionGroup)>
+</styled.section>
+`;
+
+exports[`<Work /> should render correctly w/ projects path 1`] = `
+<styled.section>
+  <HelmetWrapper
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Work
+    </title>
+    <meta
+      content="Past employment, projects, skills"
+      name="description"
+    />
+  </HelmetWrapper>
+  <Buttons
+    active="/work/projects"
+  />
+  <Styled(CSSTransitionGroup)
+    className="transition-group"
+    component="div"
+    transitionAppear={true}
+    transitionAppearTimeout={2000}
+    transitionEnterTimeout={2000}
+    transitionLeave={false}
+    transitionName="page"
+  >
+    <div
+      style={
+        Object {
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    >
+      <Switch>
+        <AsyncRoute
+          load={[Function]}
+          path="/work/projects"
+        />
+      </Switch>
+    </div>
+  </Styled(CSSTransitionGroup)>
+</styled.section>
+`;
+
+exports[`<Work /> should render correctly w/ work path 1`] = `
+<styled.section>
+  <HelmetWrapper
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Work
+    </title>
+    <meta
+      content="Past employment, projects, skills"
+      name="description"
+    />
+  </HelmetWrapper>
+  <Buttons
+    active="/work"
+  />
+  <Styled(CSSTransitionGroup)
+    className="transition-group"
+    component="div"
+    transitionAppear={true}
+    transitionAppearTimeout={2000}
+    transitionEnterTimeout={2000}
+    transitionLeave={false}
+    transitionName="page"
+  >
+    <div
+      style={
+        Object {
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    >
+      <Switch>
+        <AsyncRoute
+          load={[Function]}
+          path="/work"
+        />
+      </Switch>
+    </div>
+  </Styled(CSSTransitionGroup)>
+</styled.section>
+`;
+
+exports[`<Work /> should render correctly with default value 1`] = `
+<styled.section>
+  <HelmetWrapper
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Work
+    </title>
+    <meta
+      content="Past employment, projects, skills"
+      name="description"
+    />
+  </HelmetWrapper>
+  <Buttons
+    active=""
+  />
+  <Styled(CSSTransitionGroup)
+    className="transition-group"
+    component="div"
+    transitionAppear={true}
+    transitionAppearTimeout={2000}
+    transitionEnterTimeout={2000}
+    transitionLeave={false}
+    transitionName="page"
+  >
+    <div
+      style={
+        Object {
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    >
+      <Switch>
+        <AsyncRoute
+          load={[Function]}
+          path=""
+        />
+      </Switch>
+    </div>
+  </Styled(CSSTransitionGroup)>
+</styled.section>
+`;

@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AsyncRoute /> should render correctly 1`] = `
+<Route
+  path="/work"
+  render={[Function]}
+/>
+`;

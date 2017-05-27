@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Buttons /> should render correctly 1`] = `
+<styled.div>
+  <styled.li
+    active={true}
+    color="198"
+    topRadius={true}
+  >
+    <Styled(Link)
+      to="/work"
+    >
+      Jobs
+    </Styled(Link)>
+  </styled.li>
+  <styled.li
+    active={false}
+    color="183"
+  >
+    <Styled(Link)
+      to="/work/projects"
+    >
+      Projects
+    </Styled(Link)>
+  </styled.li>
+  <styled.li
+    active={false}
+    color="155"
+  >
+    <Styled(Link)
+      to="/work/current_site"
+    >
+      Current Site
+    </Styled(Link)>
+  </styled.li>
+  <styled.li
+    active={false}
+    color="97"
+  >
+    <Styled(Link)
+      to="/work/client_sites"
+    >
+      Client Sites
+    </Styled(Link)>
+  </styled.li>
+  <styled.li
+    active={false}
+    bottomRadius={true}
+    boxShadow={true}
+    color="65"
+  >
+    <Styled(Link)
+      to="/work/graphics"
+    >
+      Graphics
+    </Styled(Link)>
+  </styled.li>
+</styled.div>
+`;
+
+exports[`<Buttons /> should render graphics button correctly 1`] = `
+<li
+  className="kSwrIg"
+  color="65"
+>
+  <Styled(Link)
+    to="/work/graphics"
+  >
+    <Link
+      className="ipJOlB"
+      replace={false}
+      to="/work/graphics"
+    >
+      <a
+        className="ipJOlB"
+        href="/work/graphics"
+        onClick={[Function]}
+      >
+        Graphics
+      </a>
+    </Link>
+  </Styled(Link)>
+</li>
+`;
+
+exports[`<Buttons /> should render work button correctly 1`] = `
+<li
+  className="kmoYbu"
+  color="198"
+>
+  <Styled(Link)
+    to="/work"
+  >
+    <Link
+      className="ipJOlB"
+      replace={false}
+      to="/work"
+    >
+      <a
+        className="ipJOlB"
+        href="/work"
+        onClick={[Function]}
+      >
+        Jobs
+      </a>
+    </Link>
+  </Styled(Link)>
+</li>
+`;

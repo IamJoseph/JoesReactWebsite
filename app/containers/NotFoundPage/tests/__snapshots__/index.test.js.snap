@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NotFoundPage /> should render correctly 1`] = `
+<styled.section>
+  <styled.h1>
+    OOPS you took a wrong turn!
+  </styled.h1>
+  <h2>
+    Sorry about that :(
+  </h2>
+</styled.section>
+`;

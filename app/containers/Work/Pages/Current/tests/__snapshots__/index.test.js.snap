@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Current /> should render correctly 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.h2>
+      Current Site
+    </styled.h2>
+    <styled.li>
+      Es6/esNExt / immutable.js / react / redux / redux-saga / react-router /  styled-components / jest / enzyme / reselect / helmet / font face observer / service workers!
+    </styled.li>
+    <styled.div>
+      <a
+        href="https://github.com/IamJoseph/JoesReactWebsite"
+        rel="dns-prefetch"
+        target="_blank"
+      >
+        App @ Github
+      </a>
+    </styled.div>
+    <div>
+      Sporting features such as SEO friendly meta-data, offline first, and check out those test scores!
+    </div>
+    <styled.div
+      className={false}
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="output of running jest / enzyme tests"
+        src="IMAGE_MOCK"
+      />
+      <styled.img
+        alt="emoji for emphasis"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div>
+      You might think to yourself, why so much effort for a 
+      <i>
+        simple
+      </i>
+       website?
+      <br />
+      <br />
+      Take a look at the code on Github and you will understand, it's all about scalability! Scalability, performance, and best practices. The same stack and architecture are applicable for enterprise level applications. 
+      <br />
+      <br />
+      I also enjoy new technologies and feel appreciation for the efforts of the talented devs creating these wonderful packages; it'd be a crime not to use them!
+    </styled.div>
+  </styled.ul>
+</styled.section>
+`;
+
+exports[`<Current /> should toggle className clicked on image container when clicked 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.h2>
+      Current Site
+    </styled.h2>
+    <styled.li>
+      Es6/esNExt / immutable.js / react / redux / redux-saga / react-router /  styled-components / jest / enzyme / reselect / helmet / font face observer / service workers!
+    </styled.li>
+    <styled.div>
+      <a
+        href="https://github.com/IamJoseph/JoesReactWebsite"
+        rel="dns-prefetch"
+        target="_blank"
+      >
+        App @ Github
+      </a>
+    </styled.div>
+    <div>
+      Sporting features such as SEO friendly meta-data, offline first, and check out those test scores!
+    </div>
+    <styled.div
+      className="clicked"
+      onClick={[Function]}
+    >
+      <styled.img
+        alt="output of running jest / enzyme tests"
+        src="IMAGE_MOCK"
+      />
+      <styled.img
+        alt="emoji for emphasis"
+        src="IMAGE_MOCK"
+      />
+    </styled.div>
+    <styled.div>
+      You might think to yourself, why so much effort for a 
+      <i>
+        simple
+      </i>
+       website?
+      <br />
+      <br />
+      Take a look at the code on Github and you will understand, it's all about scalability! Scalability, performance, and best practices. The same stack and architecture are applicable for enterprise level applications. 
+      <br />
+      <br />
+      I also enjoy new technologies and feel appreciation for the efforts of the talented devs creating these wonderful packages; it'd be a crime not to use them!
+    </styled.div>
+  </styled.ul>
+</styled.section>
+`;

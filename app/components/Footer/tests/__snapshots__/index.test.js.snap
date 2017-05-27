@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> renders correctly 1`] = `
+<styled.footer>
+  <styled.div>
+    <styled.div>
+      email: iamjoe@joeireland.com
+    </styled.div>
+  </styled.div>
+</styled.footer>
+`;

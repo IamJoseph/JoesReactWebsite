@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Default /> should render correctly 1`] = `
+<styled.section>
+  <styled.ul>
+    <styled.img
+      alt="bluetoad logo"
+      src="IMAGE_MOCK"
+    />
+    <div>
+      July 2015 - Dec 2016
+    </div>
+    <div>
+      <styled.li>
+        Worked under pureMVC framework
+      </styled.li>
+      <styled.li>
+        Dealt largely with cross domain communication
+      </styled.li>
+      <styled.li>
+        Built unified metrics / analytics / GTM / thermostats API
+      </styled.li>
+      <styled.li>
+        Created dynamic implementation of DFP
+      </styled.li>
+      <styled.li>
+        Several UI overhauls
+      </styled.li>
+      <styled.li>
+        Events refactor
+      </styled.li>
+      <styled.li>
+        Colorbox
+      </styled.li>
+      <styled.li>
+        SEO
+      </styled.li>
+      <styled.li>
+        508 compliance
+      </styled.li>
+      <styled.li>
+        AGILE w/ Jira
+      </styled.li>
+    </div>
+  </styled.ul>
+  <styled.ul>
+    <styled.h2
+      style={
+        Object {
+          "marginBottom": ".2em",
+        }
+      }
+    >
+      Web Development
+    </styled.h2>
+    <div>
+      Contract
+    </div>
+    <div>
+      2014 - Present
+    </div>
+  </styled.ul>
+</styled.section>
+`;

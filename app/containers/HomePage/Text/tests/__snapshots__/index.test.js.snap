@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Text /> should render correctly 1`] = `
+<TextContainer>
+  <styled.section>
+    <section
+      className="dzYAfK"
+    >
+      <styled.div
+        className="textTransform"
+      >
+        <div
+          className="textTransform fnBkzA"
+        >
+          <div
+            style={
+              Object {
+                "position": "relative",
+              }
+            }
+          >
+            <styled.h1>
+              <h1
+                className="fojIok"
+              >
+                Hello
+              </h1>
+            </styled.h1>
+            <img
+              alt="brush stroke under hello for emphasis and style"
+              src="IMAGE_MOCK"
+              style={
+                Object {
+                  "marginTop": "-1.3em",
+                  "width": "7.2em",
+                }
+              }
+            />
+          </div>
+          I'm Joseph Ireland, a Web Engineer / Software Developer / Jack of all Trades Programmer from Orlando, FL.
+        </div>
+      </styled.div>
+      <styled.div
+        className="textTransform"
+        right={true}
+      >
+        <div
+          className="textTransform bMBOrX"
+        >
+          I ♡ space, technology, creativity, aesthetically pleasing UI and scalable performant code.
+        </div>
+      </styled.div>
+    </section>
+  </styled.section>
+</TextContainer>
+`;
