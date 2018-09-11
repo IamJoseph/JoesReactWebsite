@@ -1,4 +1,4 @@
-# Joe's React Website <img src="https://cdn.rawgit.com/IamJoseph/JoesReactWebsite/7429e0d4/app/assets/logo.svg" width="50">
+# Joe's React Website <img src="https://cdn.rawgit.com/IamJoseph/JoesReactWebsite/825ea73f/app/assets/logo.svg" width="50">
 An [example website](https://www.joeireland.com) built with React and tons of other great stuff
 
 ## Motivation
